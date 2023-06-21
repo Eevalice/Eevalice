@@ -54,7 +54,7 @@
 
 ---
 
-### 📕 Latest Research Posts
+#### 📕 Latest Research Posts
 
 <!-- RESEARCH-POST-LIST:START -->
 - [Engineering Analysis about Earthquake Seismic Waves and Electromagnetic Field Anomalies](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Engineering+Analysis+about+Earthquake+Seismic+waves+and+Electromagnetic+Field+Anomalies&btnG=)
