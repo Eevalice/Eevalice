@@ -57,6 +57,7 @@
 ### 📕 Latest Research Posts
 
 <!-- RESEARCH-POST-LIST:START -->
+- [Analyzation about Earthquake Seismic Waves and Electromagnetic Field Anomalies](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=electromagnetic+field+and+earthquake&btnG=)
 - [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/readings/)
 - [Enterprise Architecture](https://dev.to/codestackr/web-development-roadmap-2023-5beo)
 - [Getting Started with Django &amp; Python](https://www.djangoproject.com/start/)
